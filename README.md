@@ -26,7 +26,7 @@ You can use this to steal the .bin file providers transfer to your computer when
 - Search the name of your firmware sellers .bin file and boom! you have their .bin file.
 **Example** path: `C:\Windows\System32\icsxml`
 
-### Warning!
+# Warning!
 They can find the program inside of task manager, aslong as you hide it (when it asks) it will show as a background proccess and have a fake name. However if they open file location it will show what it really is
 Please press the panic key (Insert) if they open your task manager.
 
