@@ -2,7 +2,7 @@
 
 **Created By Kaii**
 
-Made this due to a firmware seller being a idiot about stealing firmware, so i decided to create this.
+Wrote this due to a firmware seller being a idiot about stealing firmware. Go wild.
 
 ## Features:
 
