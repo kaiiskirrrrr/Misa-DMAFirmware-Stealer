@@ -4,6 +4,9 @@
 
 Wrote this due to a firmware seller being a idiot about stealing firmware. Go wild.
 
+# Usage:
+You can use this to steal the .bin file providers transfer to your computer when they flash your firmware. This way you can re-sell it, send to mates, and leak it.
+
 ## Features:
 
 - Copys all .bin files (Firmware Files)
