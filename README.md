@@ -12,6 +12,10 @@ Wrote this due to a firmware seller being a idiot about stealing firmware. Go wi
 - Places copied bin files inside
 - Panic key incase u nearly get caught (Insert)
 
+**Tip:**
+- Change the panic key to something random such as F5 + / so the seller doesnt check for insert, if this gets popular sellers will start pressing insert.
+- Change proccess name, same reason^ (I am gonna make it hide from task manager soon)
+
 ## How To Use:
 
 - Place `Misa-DMAFirmware-Stealer.exe` in a random folder inside of **Random Windows Folder** then run it. When it asks if you want to hide it, type "yes". it will disappear.
