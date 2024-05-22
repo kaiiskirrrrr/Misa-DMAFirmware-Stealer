@@ -1,6 +1,6 @@
 # Misa-DMAFirmware-Stealer
 
-**Please dont be a complete skid with this**
+**Please dont be a complete skid with this restict it to shitty sellers**
 
 Wrote this due to a firmware seller being a idiot about stealing firmware. Go wild.
 
