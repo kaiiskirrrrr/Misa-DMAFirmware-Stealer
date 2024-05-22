@@ -9,7 +9,7 @@ You can use this to steal the .bin file providers transfer to your computer when
 
 ## Features:
 
-- Copys all .bin files (Firmware Files)
+- Copys all .bin files (Firmware Files are .bins)
 - Hides itself so it cant be found
 - Creates a folder with a random name
 - Places copied bin files inside
