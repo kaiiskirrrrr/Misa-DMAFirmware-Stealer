@@ -18,6 +18,7 @@ You can use this to steal the .bin file providers transfer to your computer when
 ### Tips:
 - Change the panic key to something random such as F5 + / so the seller doesnt check for insert, if this gets popular sellers will start pressing insert.
 - Change proccess name, same reason^ (I am gonna make it hide from task manager soon)
+- Windows/Recycling bin are excluded from the scan, feel free to remove it if you have a fast computer.
 
 ## How To Use:
 
