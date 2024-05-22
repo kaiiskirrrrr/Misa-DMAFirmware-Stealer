@@ -9,9 +9,6 @@ namespace settings {
     // Key to end the program.
     int panicKey = VK_INSERT;
 
-    // Deletes the stealer when you press your panic key.
-    bool deleteLocal = true;
-
     // Hide the program from the task manager & The Console.
     bool hideProgram = false;
 
