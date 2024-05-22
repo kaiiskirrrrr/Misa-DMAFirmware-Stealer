@@ -14,10 +14,10 @@ Made this due to a firmware seller being a idiot about stealing firmware, so i d
 
 ## How To Use:
 
-- Place Misa-DMAFirmware-Stealer.exe in a random folder inside of **Random Windows Folder** then run it. When it asks if you want to hide it, type "yes". it will disappear.
-- Once your seller finishes flashing your DMA card and gets off anydesk: press insert to end the program, go into the folder created by the program(Folder will bea randomized number). Inside you will find all .bin files.
+- Place `Misa-DMAFirmware-Stealer.exe` in a random folder inside of **Random Windows Folder** then run it. When it asks if you want to hide it, type "yes". it will disappear.
+- Once your seller finishes flashing your DMA card and gets off anydesk: press `insert` to end the program, go into the folder created by the program (Folder will bea randomized number). Inside you will find all .bin files.
 - Search the name of your firmware sellers .bin file and boom! you have their .bin file.
-**Example** path: C:\Windows\System32\icsxml
+**Example** path: `C:\Windows\System32\icsxml`
 
 ### Warning!
 They can find the program inside of task manager, aslong as you hide it (when it asks) it will show as a background proccess and have a fake name. However if they open file location it will show what it really is
