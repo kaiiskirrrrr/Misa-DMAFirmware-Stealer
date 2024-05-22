@@ -1,6 +1,6 @@
 # Misa-DMAFirmware-Stealer
 
-**Created By Kaii**
+**Please dont be a complete skid with this**
 
 Wrote this due to a firmware seller being a idiot about stealing firmware. Go wild.
 
