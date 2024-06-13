@@ -10,10 +10,9 @@ You can use this to steal the .bin file providers transfer to your computer when
 ## Features:
 
 - Copys all .bin files (Firmware Files are .bins)
-- Hides itself from all process viewers and file explorers.
-- Creates a folder with a random name
-- Hides the created folder 
-- Places copied bin files inside
+- Hides itself from all process viewers and file explorers
+- Copies all newly created bin files
+- Places copied bin files inside a hidden folder with a randomized name
 - Panic key incase u nearly get caught (Insert)
 
 ### Tips:
